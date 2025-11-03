@@ -1,115 +1,248 @@
-<h2 align="left">Hi 👋! My name is Yash Vanani, and I'm a Mobile Application Developer from India</h2>
+<!-- ============================= -->
+<!--          BANNER SECTION       -->
+<!-- ============================= -->
 
-###
+![Banner](https://github.com/NDCSwift/Swift-Projects/blob/main/Screenshot%202025-09-25%20at%201.06.36%E2%80%AFPM.png?raw=true)
 
+---
+
+<!-- ============================= -->
+<!--          INTRODUCTION         -->
+<!-- ============================= -->
+
+# 👋 Hi, I'm YASH VANANI  
+**Dream Big, Code Bigger — Building intuitive apps with Flutter, FlutterFlow, and React.**
+
+---
+
+<!-- ============================= -->
+<!--             ABOUT ME          -->
+<!-- ============================= -->
+
+## ✨ About Me  
+Hello! I’m Yash Vanani, a Mobile App developer and designer passionate about creating apps that are **engaging, accessible, and meaningful**.  
+I enjoy learning, experimenting, and sharing knowledge — whether that’s through building projects or teaching.  
+My focus is on **clarity, accessibility, and helping others grow as developers**, while crafting experiences that people enjoy using every day.  
+
+---
+
+
+<!-- ============================= -->
+<!--         TECH & TOOLS          -->
+<!-- ============================= -->
+
+## 🛠️ Tech & Tools  
+
+### 📱 Frontend / UI (Mobile App Dev)  
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yashvanani.yashvanani&"  />
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-white?logo=flutter&logoColor=blue" />
+  </a>
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-black?logo=android&logoColor=green" />
+  </a>
+  <a href="https://developer.apple.com/xcode/swiftdata/">
+    <img src="https://img.shields.io/badge/SwiftData-blue?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/spritekit/">
+    <img src="https://img.shields.io/badge/SpriteKit-FF2D55?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/gamekit/">
+    <img src="https://img.shields.io/badge/GameKit-purple?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/av-foundation/">
+    <img src="https://img.shields.io/badge/AVFoundation-0A84FF?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/healthkit/">
+    <img src="https://img.shields.io/badge/HealthKit-FF3B30?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/documentation/storekit">
+    <img src="https://img.shields.io/badge/StoreKit-5856D6?logo=apple&logoColor=white" />
+  </a>
 </div>
 
-###
+---
 
-
+### 💾 Backend & Databases  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvanani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
+  </a>
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://realm.io/">
+    <img src="https://img.shields.io/badge/Realm-39477F?logo=realm&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/icloud/cloudkit/">
+    <img src="https://img.shields.io/badge/CloudKit-0A84FF?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/documentation/coredata">
+    <img src="https://img.shields.io/badge/CoreData-FFCC00?logo=apple&logoColor=black" />
+  </a>
 </div>
 
-###
+---
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webflow/4353FF" height="30" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+### ⚙️ Tools & Workflow  
+<div align="center">
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/xcode-cloud/">
+    <img src="https://img.shields.io/badge/Xcode%20Cloud-0A84FF?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://developer.apple.com/testflight/">
+    <img src="https://img.shields.io/badge/TestFlight-0A84FF?logo=apple&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.apple.com/keynote/">
+    <img src="https://img.shields.io/badge/Keynote-0066CC?logo=apple&logoColor=white" />
+  </a>
+    <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🖥️ Languages  
+<div align="center">
+  <a href="https://developer.apple.com/swift/">
+    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  </a>
+    <a href="https://developer.apple.com/swift/">
+    <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  </a>
+  <a href="https://www.json.org/">
+    <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" />
+  </a>
 </div>
 
-###
+---
+
+<!-- ============================= -->
+<!--           MY PROJECTS         -->
+<!-- ============================= -->
+
+## 🚀 My Projects  
+
+<p align="center">
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/WSGif.gif?raw=true" width="150" alt="WordSage Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/DDGif.gif?raw=true" width="150" alt="Daily Devotion Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/TDGif.gif?raw=true" width="150" alt="Tap Duel Demo"/>
+  <img src="https://github.com/NDCSwift/Swift-Projects/blob/main/docs/screens/GBGif.gif?raw=true" width="150" alt="Gratitude Bestie Demo"/>
+</p>
+
+---
+
+### 📘 [WordSage](https://apps.apple.com/ca/app/wordsage/id6683296823)  
+_Your daily vocabulary companion with interactive challenges and motion-based controls._  
+
+✨ Features:  
+- Daily word challenges to expand your vocabulary  
+- Multiple game modes: matching, anagrams, flashcards  
+- Motion-based gameplay for an immersive experience  
+- 1000+ curated vocabulary entries  
+
+🔗 [Live on App Store](https://apps.apple.com/ca/app/wordsage/id6683296823)  
+
+---
+### 🙏 [Gratitude Bestie](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)  
+_A mindful journaling app to help you reflect, grow, and stay grateful._  
+
+✨ Features:  
+- Daily gratitude entries with support for photos, tags, and emoji  
+- Smart prompts powered by Core ML emotion detection  
+- CloudKit sync across iPhone & iPad  
+- Clean, accessible UI designed in SwiftUI  
+- One-time purchase to remove all ads  
+
+🔗 [Live on App Store](https://apps.apple.com/us/app/gratitude-bestie/id6753034386)
+
+---
+
+### 📖 [Daily Devotion](https://apps.apple.com/ca/app/daily-devotions/id6744182819)  
+_Beautifully curated scripture and reflections to inspire each day._  
+
+✨ Features:  
+- Handpicked verses with thoughtful reflections  
+- Choose your translation (KJV, ASV, WEB, DRB)  
+- Daily notifications to build spiritual habits  
+- Dark mode + home widget for quick access  
+- Save favorites and search scripture easily  
+
+🔗 [Live on App Store](https://apps.apple.com/ca/app/daily-devotions/id6744182819)  
+
+---
+
+### 🎮 [Tap Duel](https://apps.apple.com/us/app/tap-duel/id6746076055)  
+_Fast-paced multiplayer reflex battles — local or online._  
+
+✨ Features:  
+- Real-time **Game Center multiplayer** or local two-player  
+- Solo reflex trainer for sharpening reaction time  
+- Unlockable icons, skins, and premium packs (cats, memes, holidays & more)  
+- Detailed stats: fastest taps, win streaks, performance analytics  
+- Online Leaderboards with Game Center
+
+🔗 [Live on App Store](https://apps.apple.com/us/app/tap-duel/id6746076055)  
+
+---
+
+<!-- ============================= -->
+<!--          CONNECT WITH ME      -->
+<!-- ============================= -->
+## 🤝 Connect with Me  
+ 
+[![linkedin](https://www.linkedin.com/in/yashvanani/)  
+[![Online for a consultation](https://calendly.com/vananiyash9828/30min)  
+
+---
+
+
+<!-- ============================= -->
+<!--           GITHUB STATS        -->
+<!-- ============================= -->
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vananiyash&show_icons=true&theme=tokyonight)
+
+---
+

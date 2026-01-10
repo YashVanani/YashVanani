@@ -166,14 +166,3 @@ My focus is on **clarity, accessibility, and helping others grow as developers**
 
 ---
 
-
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashVanani&show_icons=true&theme=tokyonight)
-
----
-
